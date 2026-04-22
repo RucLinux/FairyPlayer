@@ -2,6 +2,11 @@
 
 一款面向本地媒体与在线流媒体的高性能播放器，提供 Windows 与 Linux 双版本，兼顾易用性与专业处理能力。
 
+## 作者与官网
+
+- 作者：RucLinux
+- 官网：<https://www.myzhenai.com.cn>
+
 ## 技术栈
 
 - PySide6 界面
@@ -92,6 +97,13 @@
 - Linux：`code/` 中的原生模块与 FFmpeg 相关文件为运行必需组件。
 - 通用资源：图标与界面资源位于 `images/`（或 `img/`）目录，请勿删除。
 
+<img width="1356" height="870" alt="linux-2" src="https://github.com/user-attachments/assets/8a113a50-44ce-45eb-a32f-097e4305ba42" />
+
+<img width="1358" height="868" alt="linux-1" src="https://github.com/user-attachments/assets/bad5a727-ed05-44cb-a29f-6cc079e75d3c" />
+
+<img width="1353" height="868" alt="linux-3" src="https://github.com/user-attachments/assets/2f08bad5-4ae3-4746-b0c5-f8765cb5dd25" />
+
+
 ## 下载与安装
 
 请选择任意网盘下载，进入网盘后打开 **FairyPlayer** 目录即可获取对应版本安装包。
@@ -107,4 +119,5 @@
 
 ---
 
-FairyPlayer © 2026
+FairyPlayer © 2026 · Author: RucLinux · Website: <https://www.myzhenai.com.cn>
+
