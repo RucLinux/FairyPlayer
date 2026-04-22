@@ -1,0 +1,2 @@
+# FairyPlayer
+FairyPlayer 是一款精简的播放器，使用QT6媒体播放，同时调用了ffmpeg来进行一些常见功能的处理,播放器作为FairyMux的一部份，支持windows和linux。
